@@ -1,0 +1,20 @@
+
+h1{
+    color:blueviolet;
+    font-size: 50px;
+    text-align: center;
+    border: 1px solid #bbb;
+    border-radius: 50px 0;
+}
+ul{
+    font-size: 30px;
+    text-align: center;
+}
+.content {
+    background-color: #8FBC8B;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+  
+
